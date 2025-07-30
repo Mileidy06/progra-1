@@ -1,0 +1,10 @@
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyecto\miPrimerProyecto\bin\Debug\miPrimerProyecto.exe.config
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyecto\miPrimerProyecto\bin\Debug\miPrimerProyecto.exe
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyecto\miPrimerProyecto\bin\Debug\miPrimerProyecto.pdb
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.csproj.AssemblyReference.cache
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.Form1.resources
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.Properties.Resources.resources
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.csproj.GenerateResource.cache
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.exe
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.pdb
