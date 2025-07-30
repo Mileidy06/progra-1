@@ -1,0 +1,11 @@
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyectoCsharp\miPrimerProyectoCsharp\bin\Debug\miPrimerProyectoCsharp.exe.config
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyectoCsharp\miPrimerProyectoCsharp\bin\Debug\miPrimerProyectoCsharp.exe
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyectoCsharp\miPrimerProyectoCsharp\bin\Debug\miPrimerProyectoCsharp.pdb
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.csproj.AssemblyReference.cache
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.Form1.resources
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.Properties.Resources.resources
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.csproj.GenerateResource.cache
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.exe
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.pdb
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.exe.config
