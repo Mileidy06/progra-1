@@ -8,3 +8,4 @@ C:\Users\Mileidy\Desktop\progra-1\miPrimerProyecto\miPrimerProyecto\obj\Debug\mi
 C:\Users\Mileidy\Desktop\progra-1\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.csproj.CoreCompileInputs.cache
 C:\Users\Mileidy\Desktop\progra-1\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.exe
 C:\Users\Mileidy\Desktop\progra-1\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.pdb
+C:\Users\Mileidy\Desktop\progra-1\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.exe.config

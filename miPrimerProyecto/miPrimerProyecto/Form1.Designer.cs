@@ -28,59 +28,76 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnSaludo = new System.Windows.Forms.Button();
-            this.lblNombre = new System.Windows.Forms.Label();
-            this.lblSaludo = new System.Windows.Forms.Label();
-            this.txtNombre = new System.Windows.Forms.TextBox();
+            this.lblnum1 = new System.Windows.Forms.Label();
+            this.txtnum1 = new System.Windows.Forms.TextBox();
+            this.btncalcular = new System.Windows.Forms.Button();
+            this.txtnum2 = new System.Windows.Forms.TextBox();
+            this.lblnum2 = new System.Windows.Forms.Label();
+            this.lblrespuesta = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // btnSaludo
+            // lblnum1
             // 
-            this.btnSaludo.ForeColor = System.Drawing.SystemColors.Desktop;
-            this.btnSaludo.Location = new System.Drawing.Point(124, 112);
-            this.btnSaludo.Name = "btnSaludo";
-            this.btnSaludo.Size = new System.Drawing.Size(120, 80);
-            this.btnSaludo.TabIndex = 1;
-            this.btnSaludo.Text = "Saludo";
-            this.btnSaludo.UseVisualStyleBackColor = true;
-            this.btnSaludo.Click += new System.EventHandler(this.btnSaludo_Click);
+            this.lblnum1.AutoSize = true;
+            this.lblnum1.Location = new System.Drawing.Point(107, 46);
+            this.lblnum1.Name = "lblnum1";
+            this.lblnum1.Size = new System.Drawing.Size(38, 13);
+            this.lblnum1.TabIndex = 0;
+            this.lblnum1.Text = "Num1:";
             // 
-            // lblNombre
+            // txtnum1
             // 
-            this.lblNombre.AutoSize = true;
-            this.lblNombre.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblNombre.Location = new System.Drawing.Point(148, 50);
-            this.lblNombre.Name = "lblNombre";
-            this.lblNombre.Size = new System.Drawing.Size(44, 13);
-            this.lblNombre.TabIndex = 2;
-            this.lblNombre.Text = "Nombre";
+            this.txtnum1.Location = new System.Drawing.Point(151, 43);
+            this.txtnum1.Name = "txtnum1";
+            this.txtnum1.Size = new System.Drawing.Size(100, 20);
+            this.txtnum1.TabIndex = 1;
             // 
-            // lblSaludo
+            // btncalcular
             // 
-            this.lblSaludo.AutoSize = true;
-            this.lblSaludo.ForeColor = System.Drawing.SystemColors.Desktop;
-            this.lblSaludo.Location = new System.Drawing.Point(95, 270);
-            this.lblSaludo.Name = "lblSaludo";
-            this.lblSaludo.Size = new System.Drawing.Size(29, 13);
-            this.lblSaludo.TabIndex = 3;
-            this.lblSaludo.Text = "Hola";
+            this.btncalcular.Location = new System.Drawing.Point(151, 194);
+            this.btncalcular.Name = "btncalcular";
+            this.btncalcular.Size = new System.Drawing.Size(137, 90);
+            this.btncalcular.TabIndex = 2;
+            this.btncalcular.Text = "Calcular ";
+            this.btncalcular.UseVisualStyleBackColor = true;
+            this.btncalcular.Click += new System.EventHandler(this.btncalcular_Click);
             // 
-            // txtNombre
+            // txtnum2
             // 
-            this.txtNombre.Location = new System.Drawing.Point(225, 50);
-            this.txtNombre.Name = "txtNombre";
-            this.txtNombre.Size = new System.Drawing.Size(100, 20);
-            this.txtNombre.TabIndex = 4;
+            this.txtnum2.Location = new System.Drawing.Point(151, 88);
+            this.txtnum2.Name = "txtnum2";
+            this.txtnum2.Size = new System.Drawing.Size(100, 20);
+            this.txtnum2.TabIndex = 4;
+            // 
+            // lblnum2
+            // 
+            this.lblnum2.AutoSize = true;
+            this.lblnum2.Location = new System.Drawing.Point(107, 91);
+            this.lblnum2.Name = "lblnum2";
+            this.lblnum2.Size = new System.Drawing.Size(38, 13);
+            this.lblnum2.TabIndex = 3;
+            this.lblnum2.Text = "Num2:";
+            // 
+            // lblrespuesta
+            // 
+            this.lblrespuesta.AutoSize = true;
+            this.lblrespuesta.Location = new System.Drawing.Point(90, 149);
+            this.lblrespuesta.Name = "lblrespuesta";
+            this.lblrespuesta.Size = new System.Drawing.Size(64, 13);
+            this.lblrespuesta.TabIndex = 5;
+            this.lblrespuesta.Text = "Respuesta?";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.txtNombre);
-            this.Controls.Add(this.lblSaludo);
-            this.Controls.Add(this.lblNombre);
-            this.Controls.Add(this.btnSaludo);
+            this.Controls.Add(this.lblrespuesta);
+            this.Controls.Add(this.txtnum2);
+            this.Controls.Add(this.lblnum2);
+            this.Controls.Add(this.btncalcular);
+            this.Controls.Add(this.txtnum1);
+            this.Controls.Add(this.lblnum1);
             this.ForeColor = System.Drawing.SystemColors.Highlight;
             this.Name = "Form1";
             this.Text = "Form1";
@@ -91,10 +108,12 @@
 
         #endregion
 
-        private System.Windows.Forms.Button btnSaludo;
-        private System.Windows.Forms.Label lblNombre;
-        private System.Windows.Forms.Label lblSaludo;
-        private System.Windows.Forms.TextBox txtNombre;
+        private System.Windows.Forms.Label lblnum1;
+        private System.Windows.Forms.TextBox txtnum1;
+        private System.Windows.Forms.Button btncalcular;
+        private System.Windows.Forms.TextBox txtnum2;
+        private System.Windows.Forms.Label lblnum2;
+        private System.Windows.Forms.Label lblrespuesta;
     }
 }
 

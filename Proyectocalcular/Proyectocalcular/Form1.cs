@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace miPrimerProyecto
+namespace Proyectocalcular
 {
     public partial class Form1 : Form
     {
@@ -16,16 +16,17 @@ namespace miPrimerProyecto
         {
             InitializeComponent();
         }
-           
-        }
 
         private void btncalcular_Click(object sender, EventArgs e)
         {
-            Double num1, num2, Respuesta;
+            Double num1, num2, respuesta;
             num1 = Double.Parse(txtnum1.Text);
 
             num2 = Double.Parse(txtnum2.Text);
-            lblrespuesta.Text = "Respuesta: + respuesta;"
+
+            respuesta = num1 + num2;
+            lblrespuesta.Text = "Respuesta:"+ respuesta;
+
         }
     }
 }
