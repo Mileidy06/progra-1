@@ -1,0 +1,10 @@
+C:\Users\Mileidy\Desktop\progra-1\Calculadora de primos\Calculadora de primos\bin\Debug\Calculadora de primos.exe.config
+C:\Users\Mileidy\Desktop\progra-1\Calculadora de primos\Calculadora de primos\bin\Debug\Calculadora de primos.exe
+C:\Users\Mileidy\Desktop\progra-1\Calculadora de primos\Calculadora de primos\bin\Debug\Calculadora de primos.pdb
+C:\Users\Mileidy\Desktop\progra-1\Calculadora de primos\Calculadora de primos\obj\Debug\Calculadora de primos.csproj.AssemblyReference.cache
+C:\Users\Mileidy\Desktop\progra-1\Calculadora de primos\Calculadora de primos\obj\Debug\Calculadora_de_primos.Form1.resources
+C:\Users\Mileidy\Desktop\progra-1\Calculadora de primos\Calculadora de primos\obj\Debug\Calculadora_de_primos.Properties.Resources.resources
+C:\Users\Mileidy\Desktop\progra-1\Calculadora de primos\Calculadora de primos\obj\Debug\Calculadora de primos.csproj.GenerateResource.cache
+C:\Users\Mileidy\Desktop\progra-1\Calculadora de primos\Calculadora de primos\obj\Debug\Calculadora de primos.csproj.CoreCompileInputs.cache
+C:\Users\Mileidy\Desktop\progra-1\Calculadora de primos\Calculadora de primos\obj\Debug\Calculadora de primos.exe
+C:\Users\Mileidy\Desktop\progra-1\Calculadora de primos\Calculadora de primos\obj\Debug\Calculadora de primos.pdb
