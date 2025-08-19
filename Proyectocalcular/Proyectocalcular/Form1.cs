@@ -16,112 +16,59 @@ namespace Proyectocalcular
         {
             InitializeComponent();
         }
-
-        private void btncalcular_Click(object sender, EventArgs e)
-        {
-            Double num1, num2, respuesta = 0;
-            num1 = Double.Parse(txtnum1.Text);
-
-            num2 = Double.Parse(txtnum2.Text);
-            if (optSuma.Checked)
-            {
-
-                respuesta = num1 + num2;
-            }
-            if (optResta.Checked)
-            {
-                respuesta = num1 - num2;
-            }
-            if (optMultiplicacion.Checked)
-            {
-                respuesta = num1 * num2;
-            }
-            if (optDivision.Checked)
-            {
-                respuesta = num1 / num2;
-            }
-            if (optExponente.Checked)
-            {
-                respuesta = Math.Pow(num1, num2);
-            }
-
-            if (optPorcentaje.Checked)
-            {
-                respuesta = num1 % num2;
-            }
-
-            if (optFactorial.Checked)
-            {
-                respuesta = (int)num1;
-                for (int i = (int)num1 - 1; i > 1; i--)
-                {//5!=5*4*3*2=120
-                    respuesta *= i;
-                }
-            }
-            lblrespuesta.Text = "Respuesta:" + respuesta;
-
-            if (optPrimo.Checked)
-            {
-                int i = 1, acum = 0;
-                while (i <= num1 && acum < 3)
-                {
-                    if (num1 % i == 0)
-                    {
-                        acum++; //acum = acum + 1;
-                    }
-                    i++;
-
-                }
-                if (acum <= 2)
-                {
-                    lblrespuesta.Text = "Respuesta:" + num1 + " Es Primo";
-                }
-                else
-                {
-
-                    lblrespuesta.Text = "Respuesta:" + num1 + " No es Primo";
-                }
-            }
-
-            //porcentaje.
-            //Factorial. 5! = 5x4x3x2x1=120
-            //Modulo.
+        
+            private void Form1_load(object sender, EventArgs e) {
+            // Hacer un ejercicio en C# haciendo uso de matrices, estructuras de repeticion y condicionales
+            // que determine el sueldo neto de un empleado descontando las deducciones correspondientes de ley.
+            // iss, afp, isr. 
         }
-   
-   
-        private void button1_Click(object sender, EventArgs e)
+        private double[][] tablaIsr = {
+            new Double[] {0.01, 550, 0, 0},
+            new Double[] {550.01, 895.24, 0.10, 17.67},
+            new Double[] {895.25, 2038.10, 0.20, 60},
+            new Double[] {2038.11, 9999999, 0.30, 288.57}
+        };
+
+        private double calcularDeducciones(double sueldo, double porcentaje)
+        {
+            return sueldo * porcentaje;
+        }
+        private double calcularIsr(double sueldo)
+        {
+            double isr = 0;
+            for (int i = 0; i < tablaIsr.Length; i++)
+            {
+                if (sueldo >= tablaIsr[i][0] && sueldo <= tablaIsr[i][1])
+                {
+                    isr = (sueldo - tablaIsr[i][0]) * tablaIsr[i][2] + tablaIsr[i][3];
+
+                }
+            }
+            return isr;
+        }
+
+
+        private void btnCalcular_Click(object sender, EventArgs e)
         {
 
-            double num1, num2, respuesta = 0;
-            num1 = double.Parse(txtnum1.Text);
-            num2 = double.Parse(txtnum2.Text);
-            switch (cboOpciones.SelectedIndex)
             {
-                case 0:
-                    respuesta = num1 + num2;
-                    break;
+                double sueldo = 0, isss = 0, afp = 0, isr = 0, sueldoNeto = 0;
+            sueldo = double.Parse(txtSueldo.Text);
 
-                case 1:
-                    respuesta = num1 - num2;
-                    break;
-                case 2:
-                    respuesta = num1 * num2;
-                    break;
-                case 3:
-                    respuesta = num1 / num2;
-                    break;
-            
-            case 4:
-                respuesta = num1 % num2;
-            
-            break;
-            }
-            lblrespuesta.Text = "Respuesta:" + respuesta;
+            isss = calcularDeducciones(sueldo, 0.03); // 3% de ISSS -> 3/100=0.03
+            afp = calcularDeducciones(sueldo, 0.0725); // 7.25% de AFP -> 7.25/100=0.0725
+            isr = calcularIsr(sueldo - isss - afp); // Calcular ISR
+
+            sueldoNeto = sueldo - isss - afp - isr; // Calcular sueldo neto
+
+            lblIsss.Text = "ISSS: " + isss.ToString("C2");
+            lblAfp.Text = "AFP: " + afp.ToString("C2");
+            lblIsr.Text = "ISR: " + isr.ToString("C2");
+            lblTotalDeduciones.Text = "Total Deducciones: " + (isss + afp + isr).ToString("C2");
+            lblSueldoNeto.Text = "Sueldo Neto: " + sueldoNeto.ToString("C2");
+        
+        }
 
         }
     }
 }
-
-
-
-   

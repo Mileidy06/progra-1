@@ -31,3 +31,14 @@ C:\Users\Mileidy\Source\Repos\progra-\Proyectocalcular\Proyectocalcular\obj\Debu
 C:\Users\Mileidy\Source\Repos\progra-\Proyectocalcular\Proyectocalcular\bin\Debug\Proyectocalcular.exe.config
 C:\Users\Mileidy\Source\Repos\progra-\Proyectocalcular\Proyectocalcular\bin\Debug\Proyectocalcular.exe
 C:\Users\Mileidy\Source\Repos\progra-\Proyectocalcular\Proyectocalcular\bin\Debug\Proyectocalcular.pdb
+C:\Users\Mileidy\Source\Repos\progra\Proyectocalcular\Proyectocalcular\bin\Debug\Proyectocalcular.exe.config
+C:\Users\Mileidy\Source\Repos\progra\Proyectocalcular\Proyectocalcular\bin\Debug\Proyectocalcular.exe
+C:\Users\Mileidy\Source\Repos\progra\Proyectocalcular\Proyectocalcular\bin\Debug\Proyectocalcular.pdb
+C:\Users\Mileidy\Source\Repos\progra\Proyectocalcular\Proyectocalcular\obj\Debug\Proyectocalcular.csproj.AssemblyReference.cache
+C:\Users\Mileidy\Source\Repos\progra\Proyectocalcular\Proyectocalcular\obj\Debug\Proyectocalcular.exe.config
+C:\Users\Mileidy\Source\Repos\progra\Proyectocalcular\Proyectocalcular\obj\Debug\Proyectocalcular.Form1.resources
+C:\Users\Mileidy\Source\Repos\progra\Proyectocalcular\Proyectocalcular\obj\Debug\Proyectocalcular.Properties.Resources.resources
+C:\Users\Mileidy\Source\Repos\progra\Proyectocalcular\Proyectocalcular\obj\Debug\Proyectocalcular.csproj.GenerateResource.cache
+C:\Users\Mileidy\Source\Repos\progra\Proyectocalcular\Proyectocalcular\obj\Debug\Proyectocalcular.csproj.CoreCompileInputs.cache
+C:\Users\Mileidy\Source\Repos\progra\Proyectocalcular\Proyectocalcular\obj\Debug\Proyectocalcular.exe
+C:\Users\Mileidy\Source\Repos\progra\Proyectocalcular\Proyectocalcular\obj\Debug\Proyectocalcular.pdb
