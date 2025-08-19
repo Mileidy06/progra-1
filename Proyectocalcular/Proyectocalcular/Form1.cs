@@ -44,19 +44,51 @@ namespace Proyectocalcular
             {
                 respuesta = Math.Pow(num1, num2);
             }
+
             if (optPorcentaje.Checked)
             {
                 respuesta = num1 % num2;
             }
+
+            if (optFactorial.Checked)
+            {
+                respuesta = (int)num1;
+                for (int i = (int)num1 - 1; i > 1; i--)
+                {//5!=5*4*3*2=120
+                    respuesta *= i;
+                }
+            }
+            lblrespuesta.Text = "Respuesta:" + respuesta;
+
+            if (optPrimo.Checked)
+            {
+                int i = 1, acum = 0;
+                while (i <= num1 && acum < 3)
+                {
+                    if (num1 % i == 0)
+                    {
+                        acum++; //acum = acum + 1;
+                    }
+                    i++;
+
+                }
+                if (acum <= 2)
+                {
+                    lblrespuesta.Text = "Respuesta:" + num1 + " Es Primo";
+                }
+                else
+                {
+
+                    lblrespuesta.Text = "Respuesta:" + num1 + " No es Primo";
+                }
+            }
+
             //porcentaje.
             //Factorial. 5! = 5x4x3x2x1=120
             //Modulo.
-
-            lblrespuesta.Text = "Respuesta:" + respuesta;
-
-
-            }
-
+        }
+   
+   
         private void button1_Click(object sender, EventArgs e)
         {
 
