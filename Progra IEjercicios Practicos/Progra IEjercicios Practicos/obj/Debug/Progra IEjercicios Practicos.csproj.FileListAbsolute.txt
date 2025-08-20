@@ -1,0 +1,11 @@
+C:\Users\Mileidy\Desktop\progra-1\Progra IEjercicios Practicos\Progra IEjercicios Practicos\bin\Debug\Progra IEjercicios Practicos.exe.config
+C:\Users\Mileidy\Desktop\progra-1\Progra IEjercicios Practicos\Progra IEjercicios Practicos\bin\Debug\Progra IEjercicios Practicos.exe
+C:\Users\Mileidy\Desktop\progra-1\Progra IEjercicios Practicos\Progra IEjercicios Practicos\bin\Debug\Progra IEjercicios Practicos.pdb
+C:\Users\Mileidy\Desktop\progra-1\Progra IEjercicios Practicos\Progra IEjercicios Practicos\obj\Debug\Progra IEjercicios Practicos.csproj.AssemblyReference.cache
+C:\Users\Mileidy\Desktop\progra-1\Progra IEjercicios Practicos\Progra IEjercicios Practicos\obj\Debug\Progra_IEjercicios_Practicos.Form1.resources
+C:\Users\Mileidy\Desktop\progra-1\Progra IEjercicios Practicos\Progra IEjercicios Practicos\obj\Debug\Progra_IEjercicios_Practicos.Properties.Resources.resources
+C:\Users\Mileidy\Desktop\progra-1\Progra IEjercicios Practicos\Progra IEjercicios Practicos\obj\Debug\Progra IEjercicios Practicos.csproj.GenerateResource.cache
+C:\Users\Mileidy\Desktop\progra-1\Progra IEjercicios Practicos\Progra IEjercicios Practicos\obj\Debug\Progra IEjercicios Practicos.csproj.CoreCompileInputs.cache
+C:\Users\Mileidy\Desktop\progra-1\Progra IEjercicios Practicos\Progra IEjercicios Practicos\obj\Debug\Progra IEjercicios Practicos.exe
+C:\Users\Mileidy\Desktop\progra-1\Progra IEjercicios Practicos\Progra IEjercicios Practicos\obj\Debug\Progra IEjercicios Practicos.pdb
+C:\Users\Mileidy\Desktop\progra-1\Progra IEjercicios Practicos\Progra IEjercicios Practicos\obj\Debug\Progra IEjercicios Practicos.exe.config
