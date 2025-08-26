@@ -1,0 +1,11 @@
+C:\Users\Mileidy\Desktop\progra-1\Conversores de matrices\Conversores de matrices\bin\Debug\Conversores de matrices.exe.config
+C:\Users\Mileidy\Desktop\progra-1\Conversores de matrices\Conversores de matrices\bin\Debug\Conversores de matrices.exe
+C:\Users\Mileidy\Desktop\progra-1\Conversores de matrices\Conversores de matrices\bin\Debug\Conversores de matrices.pdb
+C:\Users\Mileidy\Desktop\progra-1\Conversores de matrices\Conversores de matrices\obj\Debug\Conversores de matrices.csproj.AssemblyReference.cache
+C:\Users\Mileidy\Desktop\progra-1\Conversores de matrices\Conversores de matrices\obj\Debug\Conversores_de_matrices.Form1.resources
+C:\Users\Mileidy\Desktop\progra-1\Conversores de matrices\Conversores de matrices\obj\Debug\Conversores_de_matrices.Properties.Resources.resources
+C:\Users\Mileidy\Desktop\progra-1\Conversores de matrices\Conversores de matrices\obj\Debug\Conversores de matrices.csproj.GenerateResource.cache
+C:\Users\Mileidy\Desktop\progra-1\Conversores de matrices\Conversores de matrices\obj\Debug\Conversores de matrices.csproj.CoreCompileInputs.cache
+C:\Users\Mileidy\Desktop\progra-1\Conversores de matrices\Conversores de matrices\obj\Debug\Conversores de matrices.exe
+C:\Users\Mileidy\Desktop\progra-1\Conversores de matrices\Conversores de matrices\obj\Debug\Conversores de matrices.pdb
+C:\Users\Mileidy\Desktop\progra-1\Conversores de matrices\Conversores de matrices\obj\Debug\Conversores de matrices.exe.config
