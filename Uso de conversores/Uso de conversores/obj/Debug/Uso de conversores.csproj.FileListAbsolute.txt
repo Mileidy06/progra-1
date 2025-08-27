@@ -1,0 +1,11 @@
+C:\Users\Mileidy\Desktop\progra-1\Uso de conversores\Uso de conversores\obj\Debug\Uso de conversores.csproj.AssemblyReference.cache
+C:\Users\Mileidy\Desktop\progra-1\Uso de conversores\Uso de conversores\obj\Debug\Uso_de_conversores.Form1.resources
+C:\Users\Mileidy\Desktop\progra-1\Uso de conversores\Uso de conversores\obj\Debug\Uso_de_conversores.Properties.Resources.resources
+C:\Users\Mileidy\Desktop\progra-1\Uso de conversores\Uso de conversores\obj\Debug\Uso de conversores.csproj.GenerateResource.cache
+C:\Users\Mileidy\Desktop\progra-1\Uso de conversores\Uso de conversores\obj\Debug\Uso de conversores.csproj.CoreCompileInputs.cache
+C:\Users\Mileidy\Desktop\progra-1\Uso de conversores\Uso de conversores\bin\Debug\Uso de conversores.exe.config
+C:\Users\Mileidy\Desktop\progra-1\Uso de conversores\Uso de conversores\bin\Debug\Uso de conversores.exe
+C:\Users\Mileidy\Desktop\progra-1\Uso de conversores\Uso de conversores\bin\Debug\Uso de conversores.pdb
+C:\Users\Mileidy\Desktop\progra-1\Uso de conversores\Uso de conversores\obj\Debug\Uso de conversores.exe
+C:\Users\Mileidy\Desktop\progra-1\Uso de conversores\Uso de conversores\obj\Debug\Uso de conversores.pdb
+C:\Users\Mileidy\Desktop\progra-1\Uso de conversores\Uso de conversores\obj\Debug\Uso de conversores.exe.config
