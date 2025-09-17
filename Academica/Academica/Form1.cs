@@ -16,6 +16,12 @@ namespace Academica
         {
             InitializeComponent();
         }
+        Conexion ObjConexion = new Conexion();
+            DataSet objDs = new DataSet();
+            DataTable ObjDt = new DataTable();
+
+        public int posicion = 0;
+        public string accion = "Nuevo";
 
         private void Form1_Load(object sender, EventArgs e)
         {
