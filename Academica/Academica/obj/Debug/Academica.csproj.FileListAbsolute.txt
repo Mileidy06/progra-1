@@ -1,0 +1,13 @@
+C:\Users\Mileidy\Desktop\progra-1\Academica\Academica\bin\Debug\Academica.exe.config
+C:\Users\Mileidy\Desktop\progra-1\Academica\Academica\bin\Debug\Academica.exe
+C:\Users\Mileidy\Desktop\progra-1\Academica\Academica\bin\Debug\Academica.pdb
+C:\Users\Mileidy\Desktop\progra-1\Academica\Academica\obj\Debug\Academica.csproj.AssemblyReference.cache
+C:\Users\Mileidy\Desktop\progra-1\Academica\Academica\obj\Debug\Academica.Form1.resources
+C:\Users\Mileidy\Desktop\progra-1\Academica\Academica\obj\Debug\Academica.Properties.Resources.resources
+C:\Users\Mileidy\Desktop\progra-1\Academica\Academica\obj\Debug\Academica.csproj.GenerateResource.cache
+C:\Users\Mileidy\Desktop\progra-1\Academica\Academica\obj\Debug\Academica.csproj.CoreCompileInputs.cache
+C:\Users\Mileidy\Desktop\progra-1\Academica\Academica\obj\Debug\Academica.exe
+C:\Users\Mileidy\Desktop\progra-1\Academica\Academica\obj\Debug\Academica.pdb
+C:\Users\Mileidy\Desktop\progra-1\Academica\Academica\obj\Debug\Academica.exe.config
+C:\Users\Mileidy\Desktop\progra-1\Academica\Academica\bin\Debug\db_academica.mdf
+C:\Users\Mileidy\Desktop\progra-1\Academica\Academica\bin\Debug\db_academica_log.ldf
