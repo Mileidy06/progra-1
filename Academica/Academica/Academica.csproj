@@ -113,6 +113,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="dboalumnosDataSet.xsc">
       <DependentUpon>dboalumnosDataSet.xsd</DependentUpon>
@@ -165,6 +166,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>dbodocentes.mdf</DependentUpon>
     </Content>
+    <None Include="Resources\materias.jpg" />
+    <None Include="Resources\docente.png" />
+    <None Include="Resources\alumno.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

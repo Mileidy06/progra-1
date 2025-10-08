@@ -38,14 +38,16 @@ namespace Academica
 
         }
 
-        private void notasToolStripMenuItem_Click(object sender, EventArgs e)
+        private void periodosToolStripMenuItem_Click(object sender, EventArgs e)
         {
             FrmPeriodo objPeriodo = new FrmPeriodo();
             objPeriodo.MdiParent = this;
             objPeriodo.Show();
         }
 
-    
+        private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
-}
-    
+    }
