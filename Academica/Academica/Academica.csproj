@@ -62,6 +62,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Conexion.cs" />
+    <Compile Include="dboalumnosDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dboalumnosDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -73,6 +78,12 @@
     </Compile>
     <Compile Include="FrmMateria.Designer.cs">
       <DependentUpon>FrmMateria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPeriodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPeriodo.Designer.cs">
+      <DependentUpon>FrmPeriodo.cs</DependentUpon>
     </Compile>
     <Compile Include="Frmprincipal.cs">
       <SubType>Form</SubType>
@@ -88,6 +99,9 @@
     <EmbeddedResource Include="FrmMateria.resx">
       <DependentUpon>FrmMateria.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmPeriodo.resx">
+      <DependentUpon>FrmPeriodo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Frmprincipal.resx">
       <DependentUpon>Frmprincipal.cs</DependentUpon>
     </EmbeddedResource>
@@ -100,6 +114,17 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="dboalumnosDataSet.xsc">
+      <DependentUpon>dboalumnosDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dboalumnosDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dboalumnosDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dboalumnosDataSet.xss">
+      <DependentUpon>dboalumnosDataSet.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -139,13 +164,6 @@
     <Content Include="dbodocentes_log.ldf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>dbodocentes.mdf</DependentUpon>
-    </Content>
-    <Content Include="dbomateria.mdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="dbomateria_log.ldf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <DependentUpon>dbomateria.mdf</DependentUpon>
     </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

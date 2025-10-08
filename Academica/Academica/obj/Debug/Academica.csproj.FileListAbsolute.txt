@@ -45,10 +45,9 @@ D:\progra-1_\Academica\Academica\bin\Debug\dboalumnos.mdf
 D:\progra-1_\Academica\Academica\bin\Debug\dboalumnos_log.ldf
 D:\progra-1_\Academica\Academica\bin\Debug\dbodocentes.mdf
 D:\progra-1_\Academica\Academica\bin\Debug\dbodocentes_log.ldf
-D:\progra-1_\Academica\Academica\bin\Debug\dbomateria.mdf
-D:\progra-1_\Academica\Academica\bin\Debug\dbomateria_log.ldf
 D:\progra-1_\Academica\Academica\bin\Debug\Academica.exe.config
 D:\progra-1_\Academica\Academica\bin\Debug\Academica.exe
 D:\progra-1_\Academica\Academica\bin\Debug\Academica.pdb
 D:\progra-1_\Academica\Academica\obj\Debug\Academica.Form1.resources
 D:\progra-1_\Academica\Academica\obj\Debug\Academica.FrmMateria.resources
+D:\progra-1_\Academica\Academica\obj\Debug\Academica.FrmPeriodo.resources

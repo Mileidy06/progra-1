@@ -11,8 +11,8 @@ using System.Linq.Expressions; //Esta libreria me permite trabajar con  SQL Serv
 
 namespace Academica
 {
-    internal class Conexion
-    {
+    internal class Conexion {
+
         //Definir los miembros de la clase, atributos y metodos.
         SqlConnection objConexion = new SqlConnection(); //conectarme a la Base de datos.
         SqlCommand objComando = new SqlCommand(); //Ejecutar  SQL en la BD, lectura, Actualizacion, eliminacion, insercion.

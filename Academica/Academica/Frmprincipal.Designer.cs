@@ -37,6 +37,7 @@ namespace Academica
             this.docenteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.materiasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.notasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.notasToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -71,7 +72,8 @@ namespace Academica
             this.alumnosToolStripMenuItem,
             this.docenteToolStripMenuItem,
             this.materiasToolStripMenuItem,
-            this.notasToolStripMenuItem});
+            this.notasToolStripMenuItem,
+            this.notasToolStripMenuItem1});
             this.aplicacionesToolStripMenuItem.Name = "aplicacionesToolStripMenuItem";
             this.aplicacionesToolStripMenuItem.Size = new System.Drawing.Size(86, 20);
             this.aplicacionesToolStripMenuItem.Text = "Aplicaciones";
@@ -101,7 +103,14 @@ namespace Academica
             // 
             this.notasToolStripMenuItem.Name = "notasToolStripMenuItem";
             this.notasToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.notasToolStripMenuItem.Text = "notas";
+            this.notasToolStripMenuItem.Text = "Periodos";
+            this.notasToolStripMenuItem.Click += new System.EventHandler(this.notasToolStripMenuItem_Click);
+            // 
+            // notasToolStripMenuItem1
+            // 
+            this.notasToolStripMenuItem1.Name = "notasToolStripMenuItem1";
+            this.notasToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.notasToolStripMenuItem1.Text = "Notas";
             // 
             // Frmprincipal
             // 
@@ -130,5 +139,6 @@ namespace Academica
         private System.Windows.Forms.ToolStripMenuItem docenteToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem materiasToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem notasToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem notasToolStripMenuItem1;
     }
 }
