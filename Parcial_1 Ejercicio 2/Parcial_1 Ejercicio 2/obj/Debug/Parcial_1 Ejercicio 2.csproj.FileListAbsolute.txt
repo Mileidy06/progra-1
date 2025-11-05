@@ -1,0 +1,10 @@
+C:\Users\Mileidy\Desktop\progra-1\Parcial_1 Ejercicio 2\Parcial_1 Ejercicio 2\bin\Debug\Parcial_1 Ejercicio 2.exe.config
+C:\Users\Mileidy\Desktop\progra-1\Parcial_1 Ejercicio 2\Parcial_1 Ejercicio 2\bin\Debug\Parcial_1 Ejercicio 2.exe
+C:\Users\Mileidy\Desktop\progra-1\Parcial_1 Ejercicio 2\Parcial_1 Ejercicio 2\bin\Debug\Parcial_1 Ejercicio 2.pdb
+C:\Users\Mileidy\Desktop\progra-1\Parcial_1 Ejercicio 2\Parcial_1 Ejercicio 2\obj\Debug\Parcial_1 Ejercicio 2.csproj.AssemblyReference.cache
+C:\Users\Mileidy\Desktop\progra-1\Parcial_1 Ejercicio 2\Parcial_1 Ejercicio 2\obj\Debug\Parcial_1_Ejercicio_2.Form1.resources
+C:\Users\Mileidy\Desktop\progra-1\Parcial_1 Ejercicio 2\Parcial_1 Ejercicio 2\obj\Debug\Parcial_1_Ejercicio_2.Properties.Resources.resources
+C:\Users\Mileidy\Desktop\progra-1\Parcial_1 Ejercicio 2\Parcial_1 Ejercicio 2\obj\Debug\Parcial_1 Ejercicio 2.csproj.GenerateResource.cache
+C:\Users\Mileidy\Desktop\progra-1\Parcial_1 Ejercicio 2\Parcial_1 Ejercicio 2\obj\Debug\Parcial_1 Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\Mileidy\Desktop\progra-1\Parcial_1 Ejercicio 2\Parcial_1 Ejercicio 2\obj\Debug\Parcial_1 Ejercicio 2.exe
+C:\Users\Mileidy\Desktop\progra-1\Parcial_1 Ejercicio 2\Parcial_1 Ejercicio 2\obj\Debug\Parcial_1 Ejercicio 2.pdb
