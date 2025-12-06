@@ -23,4 +23,7 @@ Programación Computación I
 * 2 formularios Avanzados (Alta complejidad o 3 o más tablas animadas)
 * 10 reportes (salida de información o presentación de información al usuario)
 * Menus y accesos rápidos, barras de herramientas , cuadros de dialogo 
-* Creatividad e innovacion. 
+* Creatividad e innovacion.
+## En ves de formularios cree carpeta pero ahi estan todos los cambios de cada formulario.
+
+  
