@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QlCw8YNl9RE=",
+  "dgSpecHash": "2ejbUgXdmfM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mileidy\\source\\repos\\Progra01\\Proyectofinal-Agroconexion\\Progral-Semi25-Proyectofina-Agroconexion\\Agroconexion\\Agroconexion\\Agroconexion.csproj",
+  "projectFilePath": "C:\\Users\\Mileidy\\source\\repos\\progra0125\\Agroconexion\\Agroconexion\\Agroconexion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mileidy\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Mileidy\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

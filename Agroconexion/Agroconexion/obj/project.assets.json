@@ -8192,11 +8192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mileidy\\source\\repos\\Progra01\\Proyectofinal-Agroconexion\\Progral-Semi25-Proyectofina-Agroconexion\\Agroconexion\\Agroconexion\\Agroconexion.csproj",
+      "projectUniqueName": "C:\\Users\\Mileidy\\source\\repos\\progra0125\\Agroconexion\\Agroconexion\\Agroconexion.csproj",
       "projectName": "Agroconexion",
-      "projectPath": "C:\\Users\\Mileidy\\source\\repos\\Progra01\\Proyectofinal-Agroconexion\\Progral-Semi25-Proyectofina-Agroconexion\\Agroconexion\\Agroconexion\\Agroconexion.csproj",
+      "projectPath": "C:\\Users\\Mileidy\\source\\repos\\progra0125\\Agroconexion\\Agroconexion\\Agroconexion.csproj",
       "packagesPath": "C:\\Users\\Mileidy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mileidy\\source\\repos\\Progra01\\Proyectofinal-Agroconexion\\Progral-Semi25-Proyectofina-Agroconexion\\Agroconexion\\Agroconexion\\obj\\",
+      "outputPath": "C:\\Users\\Mileidy\\source\\repos\\progra0125\\Agroconexion\\Agroconexion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
